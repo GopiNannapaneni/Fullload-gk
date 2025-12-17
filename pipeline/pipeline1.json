@@ -94,6 +94,10 @@
 										"schema": {
 											"value": "@item().schemaname",
 											"type": "Expression"
+										},
+										"table": {
+											"value": "@item().tablename",
+											"type": "Expression"
 										}
 									}
 								}
